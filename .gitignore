@@ -128,3 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /wp_secrets/secrets_.py
+.idea/
